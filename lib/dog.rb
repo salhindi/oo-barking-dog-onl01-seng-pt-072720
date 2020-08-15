@@ -19,8 +19,8 @@ class Dog
   
   fido = Dog.new
   fido.name = "Fido"
-  fido.bark = "woof!"
-  puts fido.name
+ 
+  puts fido.name fido.bark = "woof!"
   puts fido.bark
   
   
